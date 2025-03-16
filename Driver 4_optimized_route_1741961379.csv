@@ -1,0 +1,7 @@
+RouteSequence,DeliveryID,Postcode,Address,CustomerName,CustomerPhone,EstimatedArrivalTime
+1,DELIVERY#59ee0a922b824c20bb73d224c1fa41d8_1741961345,NW16QR,"Flat 67, Clarence Gate Gardens, Glentworth Street, London",Claire Delorme,33659917717,09:00
+2,DELIVERY#e23d4c12012246a5ab47472e43f846a4_1741961345,NW16XX,"Flat 2, Rossmore Court, Park Road, London",Sarkis Kazarian,4.47799E+11,09:15
+3,DELIVERY#20e8edaf6ae343d69622e012e0e399c6_1741961345,NW17EP,"Flat 12, 1 Centric Close, London",Edward Ward,4.47814E+11,09:30
+4,DELIVERY#104e0c608ecf4843814bf1fd730ac169_1741961345,NW17EP,"Flat 12, 1 Centric Close, London",Edward Ward,4.47814E+11,09:45
+5,DELIVERY#9906df2bb0b24849a353774db9c6cb13_1741961345,NW17EP,"Flat 12, 1 Centric Close, London",Edward Ward,4.47814E+11,10:00
+6,DELIVERY#bc93e243b1df416cb15ff909d8166dd5_1741961345,NW51JP,"Flat 5, The Towers, 39 Dartmouth Park Avenue, London",Shazad  Iqbal,4.47816E+11,10:15

@@ -1,0 +1,8 @@
+RouteSequence,DeliveryID,Postcode,Address,CustomerName,CustomerPhone,EstimatedArrivalTime
+1,DELIVERY#6a84e38b058b4ca0984e42278df6856e_1741961345,n20ah,"Flat 35, Belvedere Court, Lyttelton Road, London",KAVIAN Hassanzadeh,7810212936,09:00
+2,DELIVERY#fbcec066c23d41d3a205312edd2749fa_1741961345,n20ah,"Flat 35, Belvedere Court, Lyttelton Road, London",KAVIAN Hassanzadeh,7810212936,09:15
+3,DELIVERY#b7a7425c22b94310b35da2fbb45a220e_1741961345,n20ah,"Flat 35, Belvedere Court, Lyttelton Road, London",KAVIAN Hassanzadeh,7810212936,09:30
+4,DELIVERY#2270e77c34f74fd08419b45867401526_1741961345,N18DE,"4 Elia Street, London",Elizabeth Pulman,7967395789,09:45
+5,DELIVERY#a9ad21e21115426f8208bbf5a1bad673_1741961345,N17SH,"Flat 311, Royle Building, 31 Wenlock Road, London",Barbara Clarenz,7702170760,10:00
+6,DELIVERY#0c42d2825896480e9260c1c657e64d4f_1741961345,N17GH,"Flat 38, Spenlow Apartments, Wenlock Road, London",Oliver Pollins,4.47931E+11,10:15
+7,DELIVERY#a1c6302b507140e1a44960a3614f43ae_1741961345,N167NJ,"Unit D, 2 Leswin Place, London",Rakshanda Interlude,44207390971,10:30

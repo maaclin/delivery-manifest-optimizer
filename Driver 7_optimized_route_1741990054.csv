@@ -1,0 +1,9 @@
+RouteSequence,DeliveryID,Postcode,Address,CustomerName,CustomerPhone,EstimatedArrivalTime
+1,DELIVERY#37291b0687644915ad336016834b45ed_1741961345,se171rl,"Costa Coffee Shop, 224 Walworth Road, London",Samuel Garcia,4.47525E+11,09:00
+2,DELIVERY#5cbf6ae7a0fe4053b5222f737baad42d_1741961345,se171rl,"Costa Coffee Shop, 224 Walworth Road, London",Samuel Garcia,4.47525E+11,09:15
+3,DELIVERY#8841eb48d5b9447cba9c298b6f4aef3c_1741961345,se171rl,"Costa Coffee Shop, 224 Walworth Road, London",Samuel Garcia,4.47525E+11,09:30
+4,DELIVERY#70553ba7b9ba42fcac9654f6a79c7bec_1741961345,SE173FF,"Flat 13, 7 Angel Lane, London",Piotr Miastkowski,4.47951E+11,09:45
+5,DELIVERY#a203ef66dfc845cfa25e83370f53c316_1741961345,se173uf,"34 Langdale Close, London",Marcus Donnelly,7599886538,10:00
+6,DELIVERY#2fbaa92419854b209f416c2d4f975698_1741961345,SE17 2AL,"337A Walworth Road, London",Whitney Bowrin,7840000000,10:15
+7,DELIVERY#effa6c8a9ce54af28bc46241745a33a2_1741961345,SE146AQ,"Flat 10, Hampton Court, Batavia Road, London",Mickael  Latapie,4.47874E+11,10:30
+8,DELIVERY#d38412b25376433d98060575574b4156_1741961345,SE13 6HW,"154 George Lane, London",Nilly Sutton,No phone provided,10:45

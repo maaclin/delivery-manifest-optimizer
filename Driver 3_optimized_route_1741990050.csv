@@ -1,0 +1,7 @@
+RouteSequence,DeliveryID,Postcode,Address,CustomerName,CustomerPhone,EstimatedArrivalTime
+1,DELIVERY#f4ed0bba8401481eb32235fe59b16bc5_1741961345,EC1A7BF,"Apartment 1.7, Dominion House, 59 Bartholomew Close, London",Conor Hay,7539537370,09:00
+2,DELIVERY#fdba80058d304ce487cc02643176faf4_1741961345,EC2A4DR,"Flat 9, 1 Mark Street, London",Nach Rao,4.47776E+11,09:15
+3,DELIVERY#1a39fe3c95e945668823061ce9b0310c_1741961345,EC2A4DR,"Flat 9, 1 Mark Street, London",Nach Rao,4.47776E+11,09:30
+4,DELIVERY#9b17199b75c54936b567b30d7c65f54c_1741961345,EC2A2FD,"Flat 1104, 2 Principal Place, Worship Street, London",Makar Molchanov,4.47832E+11,09:45
+5,DELIVERY#d80bda5cea64471699e8c77e5c952e22_1741961345,EC3A8BE,"Sidley Austin LLP, 70 St. Mary Axe, London",fergus odomh,4.47395E+11,10:00
+6,DELIVERY#1c2ca6f3a9ac409da3c106cf53b2861f_1741961345,EC3N2LS,"1 America Square, London",Cameron Zafar,4.47715E+11,10:15

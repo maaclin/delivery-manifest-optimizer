@@ -1,0 +1,5 @@
+RouteSequence,DeliveryID,Postcode,Address,CustomerName,CustomerPhone,EstimatedArrivalTime
+1,DELIVERY#737af8997bc24879a2ec2ce3c2805889_1741961345,IG75PR,"Flat 9, Imperial Heights, 126 Manor Road, Chigwell",Sam Greene,7956122207,09:00
+2,DELIVERY#1782db7de2254cd0aa5a9a3f42b948e9_1741961345,IG75PR,"Flat 9, Imperial Heights, 126 Manor Road, Chigwell",Sam Greene,7956122207,09:15
+3,DELIVERY#2804ced848e8441ab16dcb69bb100636_1741961345,KT109HF,"12 Meadway, Esher",Josephine  Colicci ,4.40777E+11,09:30
+4,DELIVERY#700a902b6b364af3ad2280c8249f311d_1741961345,KT112JE,"Oakbourne House, Eaton Park, Cobham",Iain Mcdonald,4.47749E+11,09:45
