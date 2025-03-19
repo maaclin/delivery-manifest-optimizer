@@ -15,7 +15,7 @@ s3 = boto3.client('s3')
 BUCKET_NAME = 'delivery-manifest-bucket'
 
 # Geoapify API Key
-GEOAPIFY_API_KEY = "1c41c1d950804e16a38f96dee7966703"
+GEOAPIFY_API_KEY = "yourapikey"
 
 # Geoapify API URLs
 GEOAPIFY_GEOCODING_URL = "https://api.geoapify.com/v1/geocode/search"
