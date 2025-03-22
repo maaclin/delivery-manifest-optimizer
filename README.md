@@ -8,13 +8,27 @@ This project processes delivery manifests (CSV files), optimizes driver routes u
 
 ## 📌 Features
 
-- ✅ **AWS Serverless Architecture** (S3, Lambda, DynamoDB)
+✅ **AWS Serverless Architecture** (S3, Lambda, DynamoDB)
   
-- ✅ **Automated CSV Processing** when a file is uploaded to S3
+✅ **Automated CSV Processing** when a file is uploaded to S3
+
+✅ **Route Optimization using Google Maps API**
   
-- ✅ **Route Optimization using Google Maps API**
+✅ **Scalable & Event-Driven**
   
-- ✅ **Scalable & Event-Driven**
+🔹 **AWS Lambda** – Event-driven function for processing manifests.
+
+🔹 **AWS S3** – Storage for incoming and processed CSV files.
+
+🔹 **AWS DynamoDB** – NoSQL database for storing deliveries and driver ETAs.
+
+🔹 **AWS API Gateway** – Provides an API endpoint for fetching ETAs.
+
+🔹 **Terraform** (Planned) – Infrastructure as Code for easy deployment.
+
+🔹 **Google Maps API** – Used for optimizing delivery routes.
+
+🔹 **GitHub Actions** (Planned) – Future CI/CD pipeline integration.
 
 ---
 
@@ -38,7 +52,7 @@ This project processes delivery manifests (CSV files), optimizes driver routes u
 
                        ┌───────────────────────────┐
                        │ CSV Delivery Manifest     │
-                       │ Uploaded to AWS S3 Bucket │
+                       │ Uploaded to AWS S3 Bucket │          
                        └─────────────┬─────────────┘
                                      │ Trigger (S3 Event)
                                      ▼
@@ -89,21 +103,9 @@ This project processes delivery manifests (CSV files), optimizes driver routes u
                        │ (Fetch Driver ETA Data)   │
                        └───────────────────────────┘
 
-🔹 **AWS Lambda** – Event-driven function for processing manifests.
-
-🔹 **AWS S3** – Storage for incoming and processed CSV files.
-
-🔹 **AWS DynamoDB** – NoSQL database for storing deliveries and driver ETAs.
-
-🔹 **AWS API Gateway** – Provides an API endpoint for fetching ETAs.
-
-🔹 **Terraform** (Planned) – Infrastructure as Code for easy deployment.
-
-🔹 **Google Maps API** – Used for optimizing delivery routes.
-
-🔹 **GitHub Actions** (Planned) – Future CI/CD pipeline integration.
 
 🚀 **How It Works**
+
 1️⃣ Upload a delivery manifest to the S3 incoming/ folder.
 
 2️⃣ Lambda function automatically processes the file and stores deliveries in DynamoDB.
