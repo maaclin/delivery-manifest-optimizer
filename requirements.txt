@@ -1,0 +1,5 @@
+boto3
+requests
+google-auth>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.4.0
